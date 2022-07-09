@@ -2,4 +2,4 @@
  
 "# sample_dot_net" 
 
-# Update the appsettings.json with the database connection
+Update the appsettings.json with the database connection
